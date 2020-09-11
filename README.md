@@ -7,7 +7,6 @@ in ./supplements there is a PDF of the thesis and files of the complex plots for
 ## INSTALL PACKAGES AND SOFTWARE ===
 * install R version 3.6.3 or higher
 * make sure to install the following packages:
-* reagarding versions, "installedRpackages.txt" contains all packages with version, which were installed while the script was running
 "ggplot2"
 "rlang"
 "network"
@@ -23,7 +22,7 @@ in ./supplements there is a PDF of the thesis and files of the complex plots for
 "sjmisc"
 "tidyverse"
 "cowplot"
-
+* reagarding versions, "installedRpackages.txt" contains all packages with version, which were installed while the script was running
 * install Cytoscape Version 3.8.0 and open before running the R-Script
 
 
