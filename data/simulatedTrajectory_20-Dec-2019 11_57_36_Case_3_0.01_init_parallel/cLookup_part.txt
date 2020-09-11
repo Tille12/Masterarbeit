@@ -1,0 +1,140 @@
+name,longName,compartment,formula
+12dgr180[e],"1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)",e,C39H76O5
+26dap_M[e],"meso-2,6-Diaminoheptanedioate",e,C7H14N2O4
+2obut[e],2-Oxobutanoate,e,C4H5O3
+4hbz[e],4-hydroxybenzoate,e,C7H5O3
+ac[e],acetate,e,C2H3O2
+acald[e],acetaldehyde,e,C2H4O
+acgam[e],N-acetyl-D-glucosamine,e,C8H15NO6
+acnam[e],N-acetylneuraminate,e,C11H18NO9
+ade[e],Adenine,e,C5H5N5
+adn[e],Adenosine,e,C10H13N5O4
+adocbl[e],Adenosylcobalamin,e,C72H100CoN18O17P
+akg[e],2-Oxoglutarate,e,C5H4O5
+ala_D[e],D-alanine,e,C3H7NO2
+ala_L[e],L-alanine,e,C3H7NO2
+amylopect900[e],"Amylopectin, 900 repeat units",e,C5400H9002O4501
+amylose300[e],"amylose (n=300 repeat units, alpha-1,4-glc)",e,C1800H3002O1501
+arab_L[e],L-arabinose,e,C5H10O5
+arabinan101[e],"Arabinan, polymer of 1,5-a-L-linked arabinofuranose units substituted by 1,3 or 1,2 linked branches, MW ~ 15000 Da (REF: www.meg... <Preview truncated at 128 characters>",e,C509H812O410
+arabinogal[e],"Larch arabinogalactan, gal/ara 6:1, small amount of glcur, MW ~ 116000",e,C3862H6376O3218
+arg_L[e],L-argininium(1+),e,C6H15N4O2
+asn_L[e],L-asparagine,e,C4H8N2O3
+asp_L[e],L-aspartate(1-),e,C4H6NO4
+btn[e],Biotin,e,C10H15N2O3S
+ca2[e],calcium(2+),e,Ca
+cbl1[e],Cob(I)alamin,e,C62H88CoN13O14P
+cellb[e],cellobiose,e,C12H22O11
+cgly[e],L-cysteinylglycine,e,C5H10N2O3S
+chol[e],Choline,e,C5H14NO
+cit[e],Citrate,e,C6H5O7
+cl[e],Chloride,e,Cl
+cobalt2[e],Co2+,e,Co
+csn[e],cytosine,e,C4H5N3O
+cu2[e],Cu2+,e,Cu
+cys_L[e],L-cysteine,e,C3H7NO2S
+cytd[e],Cytidine,e,C9H13N3O5
+dad_2[e],2-deoxyadenosine,e,C10H13N5O3
+dcyt[e],Deoxycytidine,e,C9H13N3O4
+ddca[e],laurate,e,C12H23O2
+dextran40[e],"Dextran 40, 1,6-alpha-D-Glucan",e,C480H800O400
+dgsn[e],Deoxyguanosine,e,C10H13N5O4
+drib[e],2-deoxy-D-ribose,e,C5H10O4
+etoh[e],ethanol,e,C2H6O
+fe2[e],Fe2+,e,Fe
+fe3[e],Fe3+,e,Fe
+fol[e],Folate,e,C19H18N7O6
+for[e],Formate,e,CH1O2
+fru[e],D-Fructose,e,C6H12O6
+fuc_L[e],L-fucose,e,C6H12O5
+fum[e],Fumarate,e,C4H2O4
+gal[e],D-Galactose,e,C6H12O6
+gam[e],D-Glucosamine,e,C6H14NO5
+glc_D[e],D-glucose,e,C6H12O6
+glcn[e],D-gluconate,e,C6H11O7
+gln_L[e],L-glutamine,e,C5H10N2O3
+glu_L[e],L-glutamate(1-),e,C5H8NO4
+gly[e],Glycine,e,C2H5NO2
+glyc3p[e],Glycerol 3-phosphate,e,C3H7O6P
+glyc[e],Glycerol,e,C3H8O3
+gsn[e],Guanosine,e,C10H13N5O5
+gua[e],Guanine,e,C5H5N5O
+h2[e],Hydrogen,e,H2
+h2o[e],Water,e,H2O
+h2s[e],Hydrogen sulfide,e,H2S
+h[e],proton,e,H
+hdca[e],Hexadecanoate (n-C16:0),e,C16H31O2
+his_L[e],L-histidine,e,C6H9N3O2
+homogal[e],"Homogalacturonan, 100 galacturonate residues. Assumed to be methylated/ acetylated in every 5th residue. Citrus HG consists of 7... <Preview truncated at 128 characters>",e,C660H840O660
+hxan[e],Hypoxanthine,e,C5H4N4O
+ile_L[e],L-isoleucine,e,C6H13NO2
+indole[e],Indole,e,C8H7N
+ins[e],Inosine,e,C10H12N4O5
+inulin[e],"Chicory inulin, 30 monosaccharide units (29 fru, 1 glc) on average",e,C180H302O151
+k[e],potassium,e,K
+kestopt[e],"Kestopentaose (4 fru, 1 glc inulin-type fructo-oligosaccharide)",e,C30H52O26
+lac_L[e],(S)-lactate,e,C3H5O3
+lcts[e],Lactose,e,C12H22O11
+leu_L[e],L-leucine,e,C6H13NO2
+levan1000[e],"Levan, 1000 fructose units",e,C6000H10002O5001
+lys_L[e],L-lysinium(1+),e,C6H15N2O2
+mal_L[e],(S)-malate(2-),e,C4H4O5
+malt[e],Maltose,e,C12H22O11
+man[e],D-Mannose,e,C6H12O6
+melib[e],Melibiose,e,C12H22O11
+meoh[e],methanol,e,CH4O1
+met_L[e],L-methionine,e,C5H11NO2S
+metsox_S_L[e],L-Methionine Sulfoxide,e,C5H11NO3S
+mg2[e],magnesium,e,Mg
+mn2[e],Mn2+,e,Mn
+mnl[e],D-Mannitol,e,C6H14O6
+mobd[e],Molybdate,e,MoO4
+mqn7[e],Menaquinone 7,e,C46H64O2
+mqn8[e],Menaquinone 8,e,C51H72O2
+na1[e],Sodium,e,Na
+nac[e],Nicotinate,e,C6H4NO2
+nmn[e],NMN,e,C11H14N2O8P
+no2[e],Nitrite,e,NO2
+no3[e],Nitrate,e,NO3
+ocdca[e],octadecanoate (n-C18:0),e,C18H35O2
+orn[e],Ornithine,e,C5H13N2O2
+oxa[e],oxalate(2-),e,C2O4
+pect[e],pectins,e,C2535H3509O2535
+phe_L[e],L-phenylalanine,e,C9H11NO2
+pheme[e],Protoheme,e,C34H30FeN4O4
+pi[e],hydrogenphosphate,e,HO4P
+pnto_R[e],(R)-Pantothenate,e,C9H16NO5
+pro_L[e],L-proline,e,C5H9NO2
+ptrc[e],Putrescine,e,C4H14N2
+pullulan1200[e],"pullulan (n=1200 repeat units, alpha-1,4 and alph-1,6 bounds)",e,C7200H12002O6001
+pydam[e],Pyridoxamine,e,C8H13N2O2
+pydx[e],Pyridoxal,e,C8H9NO3
+pydxn[e],Pyridoxine,e,C8H11NO3
+q8[e],Ubiquinone-8,e,C49H74O4
+raffin[e],Raffinose,e,C18H32O16
+rhamnogalurII[e],"Wine rhamnogalacturonan II, MW ~ 5-10 kDa, 37% galur, 16% rmn, 3% fuc-L, 11% arab-L, 6% gal, 5% glcur, 4% 2omfuc, 3% 2omxyl, 6% ... <Preview truncated at 128 characters>",e,C317H445O273
+rhamnogalurI[e],"Potato rhamnogalacturonan I, MW assumed ~200000, 62 galur, 20 rmn, 12 gal, 3 arab-L, 1 xyl-D (www.megazyme.com, PMID: 16661590)",e,C5840H7862O5281
+rib_D[e],D-ribose,e,C5H10O5
+ribflv[e],Riboflavin,e,C17H20N4O6
+rmn[e],L-Rhamnose,e,C6H12O5
+sel[e],selenate,e,O4Se
+ser_L[e],L-serine,e,C3H7NO3
+sheme[e],Siroheme,e,C42H36FeN4O16
+so4[e],sulfate,e,O4S
+spmd[e],Spermidine,e,C7H22N3
+strch1[e],"starch, structure 1 (1,6-{7[1,4-Glc], 4[1,4-Glc]})",e,C66H112O56
+succ[e],Succinate,e,C4H4O4
+sucr[e],Sucrose,e,C12H22O11
+thm[e],Thiamin,e,C12H17N4OS
+thr_L[e],L-threonine,e,C4H9NO3
+thymd[e],Thymidine,e,C10H14N2O5
+tre[e],Trehalose,e,C12H22O11
+trp_L[e],L-tryptophan,e,C11H12N2O2
+ttdca[e],tetradecanoate (n-C14:0),e,C14H27O2
+tyr_L[e],L-tyrosine,e,C9H11NO3
+ura[e],uracil,e,C4H4N2O2
+uri[e],Uridine,e,C9H12N2O6
+val_L[e],L-valine,e,C5H11NO2
+xan[e],Xanthine,e,C5H4N4O2
+xyl_D[e],aldehydo-D-xylose,e,C5H10O5
+zn2[e],Zinc,e,Zn

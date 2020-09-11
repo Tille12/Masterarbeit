@@ -1,0 +1,9 @@
+id,type,name,value
+m_1,m,Anaerostipes_caccae_DSM_14662,9999
+m_2,m,Bacteroides_thetaiotaomicron_VPI_5482,9999
+m_3,m,Bifidobacterium_longum_NCC2705,9999
+m_4,m,Blautia_producta_DSM_2950,9999
+m_5,m,Clostridium_butyricum_DSM_10702,9999
+m_6,m,Clostridium_ramosum_VPI_0427_DSM_1402,9999
+m_7,m,Escherichia_coli_str_K_12_substr_MG1655,9999
+m_8,m,Lactobacillus_plantarum_JDM1,9999
